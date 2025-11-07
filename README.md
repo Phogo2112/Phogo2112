@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, moi c'est *Ton Nom ou Pseudo*</h1>
-<h3 align="center">Développeur en formation à Ada Tech School</h3>
+<h1 align="center">👋 Hello, moi c'est Sulyvann Dain ou Phogo2112</h1>
+<h3 align="center">Développeur Full Stack en formation à Ada Tech School</h3>
 
 ---
 
@@ -9,21 +9,21 @@
 - 🌱 J’apprends et pratique principalement **Django**, **Django + Next.js**, **PostgreSQL**, **Docker**, **TailwindCSS**  
 - 💡 Passionné par le web, le code propre et l’apprentissage par projets  
 - 📚 Mes projets seront ajoutés au fur et à mesure de ma progression  
-- 🎯 Objectif actuel : renforcer mes bases back-end & front-end, et créer des projets fullstack
+- 🎯 Objectif actuel : Trouver une alternance dans le developpement d'applications full stack principalement avec django + "peut importe le front"
 
 ---
 
 ### 🛠️ Technologies & Outils
 
 #### **💻 Back-end**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://developer.mozilla.org/fr/docs/Learn_web_development/Extensions/Server-side/Django">![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)<a/>
+<a href="https://www.postgresql.org/docs">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<a/>
+<a href="https://docs.docker.com">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<a/>
 
 #### **🌐 Front-end**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<a/>
+<a href="https://v2.tailwindcss.com/docs">![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)<a/>
+<a href="https://nextjs.org/docs">![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<a/>
 
 ---
 
@@ -31,9 +31,9 @@
 
 | Nom du Projet | Description | Technologies |
 |--------------|-------------|--------------|
-| *(à ajouter)* | *(ex : site de blog avec Django)* | Django, PostgreSQL |
-| *(à venir)* | *(ex : API + Front Next.js)* | Django REST, Next.js |
-| *(à venir)* | *(ex : mini-app Dockerisée)* | Docker, Postgres |
+| Portfolio | Front | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) <a href="https://v2.tailwindcss.com/docs">![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)<a/>|
+| Adaction | API REST + Front + ORM + BDD | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white),<a href="https://nextjs.org/docs">![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<a/> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)|
+| ADF | projets Dockerisé avec envoie email en automatique, et création de devis et facturation simplifié. | <a href="https://docs.docker.com">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<a/>, <a href="https://www.postgresql.org/docs">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<a/>,<a href="https://v2.tailwindcss.com/docs">![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)<a/> |
 
 ---
 
