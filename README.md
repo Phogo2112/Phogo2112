@@ -44,8 +44,8 @@
 Tu peux me retrouver ici :  
 
 
-- 💼 LinkedIn : <a href="https://www.linkedin.com/in/sulyvann-dain-68848a289">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
-- 🌐 Portfolio : <a  href="">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)<a/>
+<a href="https://www.linkedin.com/in/sulyvann-dain-68848a289">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
+<a  href="">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)<a/>
 
 ---
 
