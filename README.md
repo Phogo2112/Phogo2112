@@ -16,7 +16,8 @@
 ### 🛠️ Technologies & Outils
 
 #### **💻 Back-end**
-<a href="https://developer.mozilla.org/fr/docs/Learn_web_development/Extensions/Server-side/Django">![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)<a/>
+<a href="https://developer.mozilla.org/fr/docs/Learn_web_development/Extensions/Server-side/Django">![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)<a/>![ORM](https://img.shields.io/badge/ORM-2D3748?style=for-the-badge&logo=database&logoColor=white)![API REST](https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
 <a href="https://www.postgresql.org/docs">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<a/>
 <a href="https://docs.docker.com">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<a/>
 
@@ -24,6 +25,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<a/>
 <a href="https://v2.tailwindcss.com/docs">![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)<a/>
 <a href="https://nextjs.org/docs">![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<a/>
+<a href="https://nextjs.org/docs">![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<a/>
 
 ---
 
@@ -41,15 +43,15 @@
 
 Tu peux me retrouver ici :  
 
-- 📧 Email : **(à ajouter si tu veux)**  
-- 💼 LinkedIn : **(à ajouter)**  
-- 🌐 Portfolio : *à venir*
+
+- 💼 LinkedIn : <a href="https://www.linkedin.com/in/sulyvann-dain-68848a289">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
+- 🌐 Portfolio : <a  href="">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)<a/>
 
 ---
 
 ### 🌟 Petit mot de fin
 
-> *“Coder, c’est apprendre un peu chaque jour. J’avance, je teste, je me plante parfois, mais je continue.”*
+J'ai commencé à apprendre seul, je veux poursuivre à plusieurs !
 
 Merci d’être passé sur mon profil ⭐  
 N’hésite pas à suivre mes projets !
