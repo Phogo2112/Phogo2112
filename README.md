@@ -38,7 +38,7 @@
 | ADF | projets Dockerisé avec envoie email en automatique, et création de devis et facturation simplifié. | <a href="https://docs.docker.com">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<a/>, <a href="https://www.postgresql.org/docs">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<a/>,<a href="https://v2.tailwindcss.com/docs">![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)<a/> |
 
 ---
-![Graphique d’activité](https://github-readme-activity-graph.vercel.app/graph?username=Phogo2112&theme=dracula)
+![Graphique d’activité](https://github-readme-activity-graph.vercel.app/graph?username=Phogo2112&theme=react-dark)
 ### 📫 Me contacter
 
 Tu peux me retrouver ici :  
