@@ -1,15 +1,22 @@
-<h1 align="center">👋 Hello, moi c'est Sulyvann Dain ou Phogo2112</h1>
-<h3 align="center">Développeur Full Stack en formation à Ada Tech School</h3>
+<h1 align="center">👋 Hello, moi c'est Sulyvann Dain</h1>
+<h3 align="center">Développeur d'application web Full Stack en formation à Ada Tech School</h3>
+
+### 📫 Me contacter
+
+On peux me retrouver ici :  
+<a href="https://www.linkedin.com/in/sulyvann-dain-68848a289">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
+<a  href="https://portfolio-pi-one-8oc9czb6r2.vercel.app">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)<a/>
+
 
 ---
 
 ### 🚀 À propos de moi
 
 - 🎓 Actuellement en formation de développeur à **Ada Tech School**  
-- 🌱 J’apprends et pratique principalement **Django**, **Django + Next.js**, **PostgreSQL**, **Docker**, **TailwindCSS**  
-- 💡 Passionné par le web, le code propre et l’apprentissage par projets  
+- 🌱 J’apprends et pratique principalement **Django**, **Next.js**, **React**, **PostgreSQL**, **Docker**, **TailwindCSS**  
+- 💡 Passionné par le développement informatique, l'apprentissage continu et l’apprentissage par projets
 - 📚 Mes projets seront ajoutés au fur et à mesure de ma progression  
-- 🎯 Objectif actuel : Trouver une alternance dans le developpement d'applications full stack principalement avec django + "peut importe le front"
+- 🎯 Objectif actuel : Trouver une alternance dans le developpement d'applications full stack (RNCP6) principalement avec django + Next.js ou React 
 
 ---
 
@@ -39,13 +46,6 @@
 
 ---
 ![Graphique d’activité](https://github-readme-activity-graph.vercel.app/graph?username=Phogo2112&theme=react-dark)
-### 📫 Me contacter
-
-Tu peux me retrouver ici :  
-
-
-<a href="https://www.linkedin.com/in/sulyvann-dain-68848a289">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
-<a  href="https://portfolio-pi-one-8oc9czb6r2.vercel.app">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)<a/>
 
 ---
 
