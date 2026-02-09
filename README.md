@@ -51,7 +51,5 @@ On peux me retrouver ici :
 
 ### 🌟 Petit mot de fin
 
-" seul on va plus vite, ensemble on va plus loin ! "
-
 Merci d’être passé sur mon profil ⭐  
 N’hésite pas à suivre mes projets !
