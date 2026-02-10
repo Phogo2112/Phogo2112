@@ -12,7 +12,7 @@ On peux me retrouver ici :
 
 ### 🚀 À propos de moi
 
-- 🎓 Actuellement en formation de développeur à **Ada Tech School**  
+- 🎓 Actuellement en recherche d'une alternance dans le développement d'application web, cybersécurité, infrastructure DevOps
 - 🌱 J’apprends et pratique principalement **Django**, **Next.js**, **React**, **PostgreSQL**, **Docker**, **TailwindCSS**  
 - 💡 Passionné par le développement informatique, l'apprentissage continu et l’apprentissage par projets
 - 📚 Mes projets seront ajoutés au fur et à mesure de ma progression  
