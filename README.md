@@ -16,7 +16,7 @@ On peux me retrouver ici :
 - 🌱 J’apprends et pratique principalement **Django**, **Next.js**, **React**, **PostgreSQL**, **Docker**, **TailwindCSS**  
 - 💡 Passionné par le développement informatique, l'apprentissage continu et l’apprentissage par projets
 - 📚 Mes projets seront ajoutés au fur et à mesure de ma progression  
-- 🎯 Objectif actuel : Trouver une alternance dans le developpement d'applications full stack (RNCP6) principalement avec django + Next.js ou React 
+- 🎯 Objectif actuel : Trouver une alternance dans le developpement d'applications full stack (RNCP6) peut importe la stack technique.
 
 ---
 
